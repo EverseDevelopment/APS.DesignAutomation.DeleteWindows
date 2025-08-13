@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Delete Windows</Name>
+    <Assembly>.\Autodesk.DeleteWindows.Command.dll</Assembly>
+    <Text>Delete Windows</Text> 
+    <AddInId>50930344-E63B-4AF5-9AD7-3D23311D4B56</AddInId>
+     <FullClassName>DeleteWindows.DeleteWindowsApp</FullClassName>
+    <Description>"Deletes Windows"</Description>
+    <VendorId>EVRS</VendorId>
+    <VendorDescription>
+       https://aps.autodesk.com/en/docs/design-automation/v3/tutorials/revit/
+    </VendorDescription>
+  </AddIn>
+</RevitAddIns>

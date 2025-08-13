@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="DBApplication">
+    <Name>DeleteWindows</Name>
+    <Assembly>.\DeleteWindows-Design-Automation.dll</Assembly>
+    <AddInId>d7fe1983-8f10-4982-98e2-c3cc332fc978</AddInId>
+    <FullClassName>DeleteWindows.DeleteWindowsApp</FullClassName>
+    <Description>"Deletes Windows by Design Automation"</Description>
+    <VendorId>EVRS</VendorId>
+    <VendorDescription>
+    </VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
